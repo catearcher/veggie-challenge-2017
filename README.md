@@ -45,4 +45,4 @@ This means that you can easily stay in the challenge even if you eat meat once i
 ## Okay, so what *can* I cook and where *can* I go?
 
 - Lots! I'm sure you'll find that there are plenty of things that don't involve killing animals
-- Shameless plug: My girlfriend has a blog with hundreds of vegetarian and vegan recipes and restaurant tips.
+- Shameless plug: My girlfriend has a blog with hundreds of [vegetarian and vegan recipes](http://piximitmilch.at/archives/category/rezepte) and [restaurant tips](http://piximitmilch.at/archives/category/restaurants).
