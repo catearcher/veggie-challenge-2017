@@ -8,11 +8,16 @@
 
 This means that you can easily stay in the challenge even if you eat meat once in a while, as long as you balance it with a vegan day.
 
+## More rules
 
-## List of things that are not vegetarian
+- Don't be a dick - don't cheat
+- If you're not sure if something is vegetarian: Look it up or ask. If that doesn't help then you have to assume that it is **not** vegetarian. So 0 points for that day, sorry.
+
+
+## List of things that are *not* vegetarian
 
 - Parmesan, Grana padano, and Gorgonzola
-  - Sorry, all of those are not vegetarian because they always contain rennet (which comes from slaughtered newly-born calves)
+  - I know this totally sucks, but **all of those are not vegetarian** because they always contain rennet (which comes from slaughtered newly-born calves)
 - Any Asian food with fish sauce in it
   - even if you order your meal with tofu, some restaurants still use fish sauce
   - it's best to check if the menu specifically says "vegetarian"; otherwise just ask
@@ -24,7 +29,7 @@ This means that you can easily stay in the challenge even if you eat meat once i
   - This is made from powdered insect bodies
 
 
-## List of things that are not vegan
+## List of things that are *not* vegan
 
 - Anything that is not vegetarian is also not vegan
 - Honey
@@ -35,3 +40,9 @@ This means that you can easily stay in the challenge even if you eat meat once i
 - Almost every single type of cheap candy and snacks
   - Cheap brands put milk powder in almost everything, even chips
   - More expensive brands are less likely to "cheat" by adding animal protein to stuff that doesn't need it
+
+
+## Okay, so what *can* I cook and where *can* I go?
+
+- Lots! I'm sure you'll find that there are plenty of things that don't involve killing animals
+- Shameless plug: My girlfriend has a blog with hundreds of vegetarian and vegan recipes and restaurant tips.
